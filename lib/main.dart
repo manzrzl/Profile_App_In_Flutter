@@ -26,7 +26,7 @@ void main(){
         SizedBox(height:5),
         Text('Website: padamrajrijal.com.np', style: TextStyle(fontSize: 19),),
         SizedBox(height:100),
-        Text('Developed By: Padam Raj Rijal')
+        Text('Developed By: Padam Raj Rijal.')
       ],
       )
     ),
