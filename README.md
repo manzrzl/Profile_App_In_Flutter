@@ -1,6 +1,6 @@
 # profileapp
 
-A new Flutter project.
+Flutter project based on your deatils. 
 
 ## Getting Started
 
